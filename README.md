@@ -3,6 +3,7 @@ Terraform Provider
 
 - Website: https://www.terraform.io
 - [![Gitter chat](https://badges.gitter.im/hashicorp-terraform/Lobby.png)](https://gitter.im/hashicorp-terraform/Lobby)
+- [![Maintainability](https://api.codeclimate.com/v1/badges/9cfbadfc0fe90262b856/maintainability)](https://codeclimate.com/github/Shoobx/terraform-provider-aws/maintainability)
 - Mailing list: [Google Groups](http://groups.google.com/group/terraform-tool)
 
 <img src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="600px">
